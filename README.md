@@ -1,3 +1,6 @@
+
+![logo(1)](https://github.com/user-attachments/assets/bc411088-f74e-4d5b-b518-63d9cbd06aba)
+
 # The Daily Poet
 
 A platform for poets and writers to share their creative work with the world. The Daily Poet provides a beautiful, distraction-free environment for sharing poetry, stories, and spoken word recordings.
